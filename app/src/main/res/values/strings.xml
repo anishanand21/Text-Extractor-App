@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Text Extractor</string>
+    <string name="main_text">Text Extraction from Aadhar card, Pan card and other ID card for Indian Citizen only using on-device (Android) machine learning.</string>
+    <string name="aadhar_card">Aadhar\nCard</string>
+    <string name="pan_card">Pan\nCard</string>
+    <string name="generic">Generic\nId Card</string>
+</resources>

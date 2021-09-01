@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "730958731192",
+    "project_id": "text-extractor-a95a5",
+    "storage_bucket": "text-extractor-a95a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730958731192:android:36ac8b9fac4a996c31e14d",
+        "android_client_info": {
+          "package_name": "com.android.textextractor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "730958731192-kahggdr0rtdq76c7e8pkivjs5fqk2ele.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.android.textextractor",
+            "certificate_hash": "4933e1943505cec963bd72d2a045e13a9689077a"
+          }
+        },
+        {
+          "client_id": "730958731192-uj2dbihro1numi0eeg54p1psjjaeqbp9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnMtDkSGj3kOww7h09gGK9FLIJqCzqpAE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "730958731192-uj2dbihro1numi0eeg54p1psjjaeqbp9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
